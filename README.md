@@ -15,16 +15,39 @@
 
 <br/>
 
-### Languages that i know :
-[<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />]()
-[<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+### Languages and Tools that i know :
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" width="36" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="36" src="https://mpng.subpng.com/20180625/vaa/kisspng-android-studio-mobile-app-development-studio-logo-5b30df8d235306.2910428315299296131447.jpg" />
+<img align="left" width="36" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
 
-<!--
-**akashgreninja/akashgreninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
--->
+
+<br />
+<br />
+
+-----
+<br />
+<br />
+
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashgreninja&hide=prs&count_private=true&show_icons=truee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+<br />
+
+-----
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
