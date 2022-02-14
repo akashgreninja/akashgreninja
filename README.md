@@ -24,8 +24,7 @@
 <img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" width="36" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
 <img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="36" src="https://mpng.subpng.com/20180625/vaa/kisspng-android-studio-mobile-app-development-studio-logo-5b30df8d235306.2910428315299296131447.jpg" />
-<img align="left" width="36" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img align="left" width="36" src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg" />
 
 
 
@@ -48,6 +47,5 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)](https://github.com/anuraghazra/github-readme-stats)                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
