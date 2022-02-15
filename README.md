@@ -40,7 +40,7 @@
 <br />
 
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashgreninja&hide=prs&count_private=true&show_icons=truee&theme=tokyonight)]
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashgreninja&hide=prs&count_private=true&show_icons=truee&theme=tokyonight)
 
 
 <br />
@@ -50,6 +50,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)]                                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)](
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)                            
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)
 
