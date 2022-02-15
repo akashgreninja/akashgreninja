@@ -53,3 +53,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)                            
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)
 
+
+credits to - https://github.com/anuraghazra/github-readme-stats for this profile stats
