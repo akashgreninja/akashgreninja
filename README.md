@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Rotract Club of BIT application using Flutter ,Rotaract Club of BIT Website and HAM Club of BIT website
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Flutter projects
-- 👯 I’m trying to get better at codeathon
+- 👯 I’m trying to get better at codeathons
 - 💬 Ask me about ethical hacking repos and my discord bot
 - 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
 - ⚡ Fun fact: Most of the fun facts floating around are fake
