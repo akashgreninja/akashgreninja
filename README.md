@@ -7,6 +7,7 @@
 - 👯 I’m trying to get better at codeathons
 - 💬 Ask me about ethical hacking repos and my discord bot
 - 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
+- 📱  https://akashudayblogs.me/
 - ⚡ Fun fact: Most of the fun facts floating around are fake
 
 
