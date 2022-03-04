@@ -9,6 +9,7 @@
 - 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
 - 📱  https://akashudayblogs.me/
 - 📱 https://www.rotaractbit3190.co.in/
+- 📱 https://top.gg/bot/846282882716663820
 - ⚡ Fun fact: Most of the fun facts floating around are fake
 
 
