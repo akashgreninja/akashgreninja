@@ -35,6 +35,9 @@
 <img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="38" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" />
+<img align="left" width="38" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" />
+<img align="left" width="50" src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/image.png" />
+
 
 
 
