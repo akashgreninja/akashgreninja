@@ -1,10 +1,10 @@
 ### Hi there 👋
-   I am Akash Uday Hulekal pursuing my B.Tech in Mechanical engineering in  Bangalore Institute of Technology expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Web-Service director of Rotract Club of BIT and the web designer for Ham club of BIT .My hobbies are jogging,gaming 
+   I am Akash Uday Hulekal pursuing my B.E in Mechanical engineering  at  Bangalore Institute of Technology ,expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Web-Service director of Rotract Club of BIT and the web designer for Ham club of BIT .My hobbies are jogging,gaming 
 
-- 🔭 I’m currently working on web dev using Flask
+- 🔭 I’m currently working on web dev using React
 - 📫 I have a reputation on 21 on StackOverFlow
 - 🌱 I’m currently learning python and learning Flask and React
-- 👯 I’m looking to collaborate on Flutter projects,Native web projects
+- 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
 - 👯 I’m trying to get better at codeathons
 - 💬 Ask me about ethical hacking repos and my discord bot
 - 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
