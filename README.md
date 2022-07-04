@@ -23,7 +23,13 @@
 [<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akash-uday-6a0b52224/)
 [<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ak_uh13//)
 
-
+<br></br>
+<br></br>
+<br></br>
+<p align="center">
+    <img alt="akash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgreninja&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 <br/>
 
 ### Languages and Tools that i know :
@@ -85,4 +91,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)
 
 
-credits to - https://github.com/anuraghazra/github-readme-stats for this profile stats
+credits to - https://github.com/anuraghazra/github-readme-stats for this profile stats,  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+
