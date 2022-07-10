@@ -59,7 +59,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img width="45" src="https://mpng.subpng.com/20180823/qyv/kisspng-mongodb-logo-database-nosql-web-development-and-stuff-page-3-5b7f6f413135b6.5868327515350782092016.jpg"/>
 
-<img align="top" width="36" src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg" />
+<img align="left" width="36"  src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg"   />
 <br/>
 
 
