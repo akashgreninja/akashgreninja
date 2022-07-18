@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&center=true&vCenter=true&lines=;I+am+from+West+Bengal%2C+India.;I+am+a+beginner+one+busy+with+studies.;This+is+my+hobby.;Thanks+for+checking+out+the+repositories.)](https://git.io/typing-svg) -->
 
-   I am Akash Uday Hulekal pursuing my B.E in Mechanical engineering  at  Bangalore Institute of Technology ,expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Web-Service director of Rotract Club of BIT and the web designer for Ham club of BIT .My hobbies are jogging,gaming 
+   I am Akash Uday Hulekal pursuing my B.E in Mechanical engineering  at  Bangalore Institute of Technology ,expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Microsoft Student Ambassador, Web-Service director of Rotract Club of BIT , web designer for Ham club of BIT and the Robolution Club of BIT .My hobbies are jogging,gaming 
    
    ![](https://visitor-badge.glitch.me/badge?page_id=akashgreninja.akashgreninja&left_text=MyPageVisitors)
 
