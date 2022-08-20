@@ -7,7 +7,7 @@
    ![](https://visitor-badge.glitch.me/badge?page_id=akashgreninja.akashgreninja&left_text=MyPageVisitors)
 
 - 🔭 I’m currently working on web dev using React
-- 📫 I have a reputation on 21 on StackOverFlow
+- 📫 I have a reputation on 84 on StackOverFlow
 - 🌱 I’m currently learning python and learning Flask and React
 - 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
 - 👯 I’m trying to get better at codeathons
