@@ -2,17 +2,17 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&center=true&vCenter=true&lines=;I+am+from+West+Bengal%2C+India.;I+am+a+beginner+one+busy+with+studies.;This+is+my+hobby.;Thanks+for+checking+out+the+repositories.)](https://git.io/typing-svg) -->
 
-   I am Akash Uday Hulekal pursuing my B.E in Mechanical engineering  at  Bangalore Institute of Technology ,expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Microsoft Student Ambassador, Web-Service director of Rotract Club of BIT , web designer for Ham club of BIT and the Robolution Club of BIT .My hobbies are jogging,gaming 
+   I am Akash Uday Hulekal pursuing my B.E in Mechanical engineering  at  Bangalore Institute of Technology ,expected to complete by 2024 ,I am interested in Full-Stack development .I am the currently the Microsoft Student Ambassador for BIT , Web-Service director of Rotract Club of BIT ,web developer lead for Google Developer Student Club, web designer for Ham club of BIT and the Robolution Club of BIT .My hobbies are jogging,gaming 
    
    ![](https://visitor-badge.glitch.me/badge?page_id=akashgreninja.akashgreninja&left_text=MyPageVisitors)
 
-- 🔭 I’m currently working on web dev using React
-- 📫 I have a reputation on 84 on StackOverFlow
-- 🌱 I’m currently learning python and learning Flask and React
+- 🔭 I’m currently working on DSA in Python
+- 📫 I have a reputation on 106 on StackOverFlow
+- 🌱 I’m currently learning Docker and Mastering Flutter
 - 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
-- 👯 I’m trying to get better at codeathons
-- 💬 Ask me about ethical hacking repos and my discord bot
-- 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
+- 👯 I’m trying to get better at codethons and problem solving 
+- 💬 Ask me anything i will be happy to help
+- 📫 How to reach me: akashuhulekal@gmail.com
 - 📱 https://akashudayblogs.me/
 - 📱 https://www.rotaractbit3190.co.in/
 - 📱 https://top.gg/bot/846282882716663820
