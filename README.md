@@ -16,6 +16,7 @@
 - 📱 https://akashudayblogs.me/
 - 📱 https://www.rotaractbit3190.co.in/
 - 📱 https://top.gg/bot/846282882716663820
+- 📱 [panchamiassociates.com](https://panchamiassociates.com/)
 - ⚡ Fun fact: Most of the fun facts floating around are fake
 
 
