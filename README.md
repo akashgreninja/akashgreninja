@@ -15,6 +15,7 @@
 - 👯 I’m trying to get better at codethons and problem solving 
 - 💬 Ask me anything i will be happy to help
 - 📫 How to reach me: akashuhulekal@gmail.com
+- <a href="https://faucets.chain.link" target="_blank"> https://faucets.chain.link</a>
 - 📱 https://akashudayblogs.me/
 - 📱 https://www.rotaractbit3190.co.in/
 - 📱 https://top.gg/bot/846282882716663820
