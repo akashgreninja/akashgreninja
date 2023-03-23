@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on DSA in Python
 - 📫 I have a reputation on 421 on StackOverFlow
+- 📫 I am ranked 1,424,582 on leetcode so trying to do better
+- 📫 I have a reputation on 421 on StackOverFlow
 - 🌱 I’m currently learning concepts of DSA
 - 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
 - 👯 I’m trying to get better at codethons and problem solving 
