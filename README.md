@@ -9,8 +9,8 @@
    ![](https://visitor-badge.glitch.me/badge?page_id=akashgreninja.akashgreninja&left_text=MyPageVisitors)
 
 - 🔭 I’m currently working on DSA in Python
-- 📫 I have a reputation on 421 on StackOverFlow
-- 📫 I am ranked 932,220 on leetcode so trying to do better
+- 📫 I have a reputation on 461 on StackOverFlow
+- 📫 I am ranked 637,036 on leetcode so trying to do better
 - 📫 I have a reputation on 431 on StackOverFlow
 - 🌱 I’m currently learning concepts of DSA
 - 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
