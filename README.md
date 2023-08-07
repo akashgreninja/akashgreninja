@@ -9,11 +9,11 @@
    ![](https://visitor-badge.glitch.me/badge?page_id=akashgreninja.akashgreninja&left_text=MyPageVisitors)
 
 - 🔭 I’m currently working on DSA in Python
-- 📫 I have a reputation on 461 on StackOverFlow
+- 📫 I have a reputation on 461 on StackOverFlow and am top 6% of the contributers in the world in 2023 on Stack 
 - 📫 I am ranked 564,949 on leetcode so trying to do better
 - 📫 I have a reputation on 431 on StackOverFlow
-- 🌱 I’m currently learning concepts of DSA
-- 👯 I’m looking to collaborate on Flutter,Flask,React,Python Projects
+- 🌱 I’m currently learning concepts of DSA and Web3
+- 👯 I’m looking to collaborate on Web3 projects
 - 👯 I’m trying to get better at codethons and problem solving 
 - 💬 Ask me anything i will be happy to help
 - 📫 How to reach me: akashuhulekal@gmail.com
