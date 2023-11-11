@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Web3 projects
 - 👯 I’m trying to get better at codethons and problem-solving 
 - 💬 Ask me anything I will be happy to help
-- 💼 any freelance work? do reach, [email](mailto:akashuhulekal@gmail.com) :)
+- 💼 any freelance work? do reach, akashuhulekal@gmail.com
 
 
 
