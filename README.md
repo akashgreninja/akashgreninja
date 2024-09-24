@@ -11,11 +11,12 @@
 
 - 🔭 I’m currently working on DSA in Python
 - 📫 I have a reputation on 511 on StackOverFlow was the top 4% of the contributors in the world in 2023 on Stack Overflow
-- 📫 I am ranked 210,000 on leetcode
+- 📫 I am ranked 210,000 on leetcode( I havent been doing this for some time 
 - 🌱 I’m currently learning concepts in Networking
-- 👯 I’m looking to collaborate on Web3 projects
-- 👯 I’m trying to get better at codethons and problem-solving 
+- 👯 I’m looking to collaborate on core tech projects 
+- 👯 I’m trying to get better at coding 
 - 💬 Ask me anything I will be happy to help you can contact me on Linkedin or by email
+- I AM OPEN TO TEAM UP FOR HACKATHONS PLEASE DO PING ME 
 - 💼 any freelance work? do reach, akashuhulekal@gmail.com
 
 
